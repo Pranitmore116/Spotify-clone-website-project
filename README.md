@@ -1,1 +1,1 @@
-# Spotify-clone-website-project
+This project involves building a music streaming website inspired by Spotify, using HTML and CSS. The platform allows users to browse playlists, search for songs and artists, and stream music. Features include playlist creation, personalized recommendations, and account login for a tailored music experience.
